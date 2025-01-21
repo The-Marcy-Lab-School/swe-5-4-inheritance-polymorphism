@@ -1,7 +1,23 @@
-const functionOne = () => {
+class Quadrilateral {
+
+}
+
+class Rectangle {
+
+}
+
+class Square {
+
+}
+
+/* Be creative with this one! */
+class Person {
 
 }
 
 module.exports = {
-  functionOne
-}
+  Quadrilateral,
+  Rectangle,
+  Square,
+  Person,
+};

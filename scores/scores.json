@@ -1,0 +1,35 @@
+{
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0
+    }
+  },
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests Quadrilateral - creates a new quadrilateral instance",
+    "FrScTe2": "From Scratch Tests Rectangle - creates a new rectangle instance",
+    "FrScTe3": "From Scratch Tests Rectangle - inherits from Quadrilateral",
+    "FrScTe4": "From Scratch Tests Rectangle - uses inheritance properly",
+    "FrScTe5": "From Scratch Tests Square - creates a new square instance",
+    "FrScTe6": "From Scratch Tests Square - Square inherits from Rectangle",
+    "FrScTe7": "From Scratch Tests Square - uses inheritance properly"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests Quadrilateral - creates a new quadrilateral instance": "FrScTe1",
+    "From Scratch Tests Rectangle - creates a new rectangle instance": "FrScTe2",
+    "From Scratch Tests Rectangle - inherits from Quadrilateral": "FrScTe3",
+    "From Scratch Tests Rectangle - uses inheritance properly": "FrScTe4",
+    "From Scratch Tests Square - creates a new square instance": "FrScTe5",
+    "From Scratch Tests Square - Square inherits from Rectangle": "FrScTe6",
+    "From Scratch Tests Square - uses inheritance properly": "FrScTe7"
+  },
+  "humanReadable": {
+    "From Scratch Tests": "0/7",
+    "finalTestScore": "FINAL SCORE: 0/7"
+  }
+}
